@@ -31,3 +31,4 @@ resources/private/
 Thumbs.db
 .vscode/
 
+test.c
